@@ -46,7 +46,7 @@
 
                     <asp:TextBox ID="txtOTP" runat="server" Visible ="false" Width="204px"></asp:TextBox>
 
-                    <asp:Label ID ="lblDisplay" runat="server" visible =false/>
+                  <%--  <asp:Label ID ="lblDisplay" runat="server" visible =false/>--%>
 
                 </td>
 

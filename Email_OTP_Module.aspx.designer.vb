@@ -41,15 +41,6 @@ Partial Public Class _Default
     Protected WithEvents txtOTP As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''lblDisplay control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lblDisplay As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''lblErr control.
     '''</summary>
     '''<remarks>
